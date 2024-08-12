@@ -1,4 +1,5 @@
 MULTI-OBJECT CLASSIFICATION BASED ON DEEP LEARNING
+
 This is a graduation thesis of us:
 - Hồ Đăng Cao
 - Đỗ Đức Duy
