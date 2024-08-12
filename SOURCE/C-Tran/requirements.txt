@@ -1,0 +1,11 @@
+matplotlib
+nltk
+numpy
+scikit-image
+scikit-learn
+scipy# Thieu apt-get install -y gfortran
+torch
+torchaudio
+torchvision
+tqdm
+streamlit

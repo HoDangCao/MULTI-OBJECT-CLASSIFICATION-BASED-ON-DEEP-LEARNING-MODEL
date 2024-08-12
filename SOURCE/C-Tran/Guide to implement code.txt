@@ -1,0 +1,8 @@
+## Read the Readme.md file to see full details.
+
+## Quick start
+# Train new model
+python main.py  --batch_size 8  --lr 0.00001 --optim 'adam'  --layers 2  --heads 4  --dataset 'food'  --use_lmt  --grad_ac_step 2  --dataroot data/  --extendName 'layers2_heads4_kn0_bb6_323lbs'
+
+# Use our pretrain model to inference
+streamlit run app.py
