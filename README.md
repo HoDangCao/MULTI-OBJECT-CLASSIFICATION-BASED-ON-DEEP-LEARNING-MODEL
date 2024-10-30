@@ -60,8 +60,8 @@ cd multi-object-classification-based-on-deep-learning-model
 ## Usage
 
 Please read files for
-- [Only-Positive-Label](./SOURCE/Only_Positive_Label/Guide_to_use_and_run_files.txt) setup.
-- [C-Tran](./SOURCE/C-Tranl/Guide_to_implement.txt) setup.
+- [Only Positive Label](./SOURCE/Only%20Positive%20Label/Guide_to_use_and_run_files.txt) setup.
+- [C-Tran](./SOURCE/C-Tran/Guide_to_implement_code.txt) setup.
 
 ## Contact
 
